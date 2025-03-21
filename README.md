@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @litlife8582
-- 👀 I’m interested in Data Science and Machien Learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Pandas library in python
 - 💞️ I’m looking to collaborate on AIML projects
 - Contact me on +91 9831753620
