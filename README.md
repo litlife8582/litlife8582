@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @litlife8582
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Pandas library in python
-- 💞️ I’m looking to collaborate on AIML projects
+- 👀 I’m interested in Data Science, Machine Learning and Web Development
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on AIML and Web-Dev projects
 - Contact me on +91 9831753620
 
 <!---
