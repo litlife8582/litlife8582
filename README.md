@@ -10,7 +10,6 @@
   <p>🌱 I’m currently learning <strong>Advanced Web Development & System Design</strong></p>
   <p>👯 I’m looking to collaborate on <strong>open-source projects and startups</strong></p>
   <p>📫 How to reach me: <a href="mailto:sarkarmayukh2006@gmail.com"><strong>sarkarmayukh2006@gmail.com</strong></a></p>
-  <p>⚡ Fun fact: <em>I can debug faster with music playing!</em></p>
 </div>
 
 <br/>
