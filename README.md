@@ -1,82 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mayukh Sarkar</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayukhsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhsarkar" />
-</p>
+<!-- IMPORTANT: replace GITHUB_USERNAME below if yours differs. Currently set to litlife8582 -->
 
 <div align="center">
-  <p>🔭 I’m currently working on <strong>MERN Stack Projects</strong></p>
-  <p>🌱 I’m currently learning <strong>Advanced Web Development & System Design</strong></p>
-  <p>👯 I’m looking to collaborate on <strong>open-source projects and startups</strong></p>
-  <p>📫 How to reach me: <a href="mailto:sarkarmayukh2006@gmail.com"><strong>sarkarmayukh2006@gmail.com</strong></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Mayukh%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20India&descAlignY=58&descSize=18" alt="header" width="100%" />
+
+<a href="https://github.com/litlife8582">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayukh;Building+RAG-based+systems;Building+MERN+stack+projects;Open+to+open-source+%26+startup+collabs" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=litlife8582&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/litlife8582?label=Followers&style=flat&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/litlife8582?label=Total%20Stars&style=flat&logo=github&color=0e75b6" alt="Stars" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **RAG-based systems** and **MERN Stack projects**
+- 👯 Looking to collaborate on **open-source projects and startups**
+- 📫 Reach me at **[sarkarmayukh8582@gmail.com](mailto:sarkarmayukh8582@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,nodejs,express,react,mongodb,git,github,vscode&perline=12" alt="Tech stack" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats (live)
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=litlife8582&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litlife8582&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=litlife8582&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity (live)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=litlife8582&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=litlife8582&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mayukh-sarkar-b15346322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/durer_batighor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:sarkarmayukh2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 <br/>
 
-<h3 align="center">🌐 Connect with me:</h3>
-
-<p align="center">
-  <a href="https://www.instagram.com/durer_batighor/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mayukh-sarkar-b15346322/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-</p>
-
-<br/>
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=litlife8582&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=litlife8582&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litlife8582&layout=compact" alt="GitHub Streak" width="400" />
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=100&section=footer" alt="footer" width="100%" />
+</div>
