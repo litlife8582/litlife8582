@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Mayukh%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Engineer%20Full-Stack Developer%20%7C%20MERN%20%7C%20India&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Mayukh%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20AI%20Engineer%20%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" width="100%" />
 
 <a href="https://github.com/litlife8582">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayukh;Building+RAG-based+systems;Building+MERN+stack+projects;Open+to+open-source+%26+startup+collabs" alt="Typing SVG" />
